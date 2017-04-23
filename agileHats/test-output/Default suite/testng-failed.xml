@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <parameter name="browserType" value="firefox"/>
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.regression.agileHats.Tests">
+        <methods>
+          <include name="createFundingProjectValid"/>
+          <include name="LoginDependentMethod"/>
+          <include name="createProjectValid"/>
+          <include name="cancelCreateProjectWithNoInputs"/>
+          <include name="VideoUploadTEST"/>
+          <include name="close"/>
+          <include name="createResponsibilityLessThanMinCharacters"/>
+          <include name="createProjectBlankFields"/>
+          <include name="DateTest"/>
+          <include name="forgotPasswordTest"/>
+          <include name="writeResult"/>
+          <include name="createResponsibilityValid"/>
+          <include name="forgotPasswordNonExistingUser"/>
+          <include name="CheckLogout2"/>
+          <include name="beforeClass"/>
+          <include name="createResponsibilityBlankFields"/>
+          <include name="registerCompanyValid"/>
+        </methods>
+      </class> <!-- com.regression.agileHats.Tests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

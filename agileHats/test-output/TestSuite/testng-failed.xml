@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="methods">
+  <test name="Chrome Test(failed)" parallel="methods">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="com.regression.agileHats.Tests">
+        <methods>
+          <include name="createFundingProjectValid"/>
+          <include name="LoginDependentMethod"/>
+          <include name="VideoUploadTEST"/>
+          <include name="searchCaseSensitive"/>
+          <include name="DateTest"/>
+          <include name="forgotPasswordTest"/>
+          <include name="writeResult"/>
+          <include name="createResponsibilityValid"/>
+          <include name="LogOut1"/>
+          <include name="blankFields"/>
+          <include name="forgotPasswordNonExistingUser"/>
+          <include name="searchTrimTest"/>
+          <include name="CheckLogout2"/>
+          <include name="registerCompanyValid"/>
+          <include name="createProjectValid"/>
+          <include name="searchResultLinkTest"/>
+          <include name="takenEmail"/>
+          <include name="validSearchResultTest"/>
+          <include name="invalidPasswordConfirmation"/>
+          <include name="cancelCreateProjectWithNoInputs"/>
+          <include name="registerEmployeeValid"/>
+          <include name="createResponsibilityLessThanMinCharacters"/>
+          <include name="companyBlankFields"/>
+          <include name="removeButtonTest"/>
+          <include name="invalidEmailFormat"/>
+          <include name="passConfirmCaseSensitive"/>
+          <include name="createProjectBlankFields"/>
+          <include name="beforeClass"/>
+          <include name="beforeClass"/>
+          <include name="createResponsibilityBlankFields"/>
+        </methods>
+      </class> <!-- com.regression.agileHats.Tests -->
+    </classes>
+  </test> <!-- Chrome Test(failed) -->
+  <test name="FireFox Test(failed)" parallel="methods">
+    <parameter name="browserType" value="firefox"/>
+    <classes>
+      <class name="com.regression.agileHats.Tests">
+        <methods>
+          <include name="EditProfile"/>
+          <include name="createFundingProjectValid"/>
+          <include name="LoginDependentMethod"/>
+          <include name="LoginInvalidPassword"/>
+          <include name="VideoUploadTEST"/>
+          <include name="searchCaseSensitive"/>
+          <include name="LoginBlankPassword"/>
+          <include name="LoginInvalidEmailAndBlankPassword"/>
+          <include name="DateTest"/>
+          <include name="forgotPasswordTest"/>
+          <include name="writeResult"/>
+          <include name="createResponsibilityValid"/>
+          <include name="LogOut1"/>
+          <include name="LoginInvalidEmail"/>
+          <include name="blankFields"/>
+          <include name="forgotPasswordNonExistingUser"/>
+          <include name="searchTrimTest"/>
+          <include name="CheckLogout2"/>
+          <include name="registerCompanyValid"/>
+          <include name="LoginInvalidPasswordAndBlankEmail"/>
+          <include name="createProjectValid"/>
+          <include name="LoginValidEmailAndPassword"/>
+          <include name="searchResultLinkTest"/>
+          <include name="takenEmail"/>
+          <include name="validSearchResultTest"/>
+          <include name="invalidPasswordConfirmation"/>
+          <include name="LoginInvalidPasswordAndEmail"/>
+          <include name="cancelCreateProjectWithNoInputs"/>
+          <include name="registerEmployeeValid"/>
+          <include name="createResponsibilityLessThanMinCharacters"/>
+          <include name="companyBlankFields"/>
+          <include name="loginBlankEmail"/>
+          <include name="removeButtonTest"/>
+          <include name="invalidEmailFormat"/>
+          <include name="passConfirmCaseSensitive"/>
+          <include name="createProjectBlankFields"/>
+          <include name="loginBlankEmailAndPassword"/>
+          <include name="beforeClass"/>
+          <include name="beforeClass"/>
+          <include name="createResponsibilityBlankFields"/>
+        </methods>
+      </class> <!-- com.regression.agileHats.Tests -->
+    </classes>
+  </test> <!-- FireFox Test(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

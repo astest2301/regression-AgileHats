@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="13" ignored="0" total="36" passed="22">
+  <reporter-output>
+    <line>
+      <![CDATA[|PASS  Verifying Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[|Actual value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Password Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[|Actual value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Password Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Wrong email or password. ]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Email Warnning]]>
+    </line>
+    <line>
+      <![CDATA[|Actual value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Password Warnning]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = 123456]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = 123456]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Phone Edit]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = skype accaunt]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = skype accaunt]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying Skype Edit]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Firstname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Firstname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Lastname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Lastname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Password confirmation doesn't match password]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password confirmation doesn't match password]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Password confirmation doesn't match password]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password confirmation doesn't match password]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email is invalid]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email is invalid]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email has already been taken]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email has already been taken]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Firstname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Firstname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Lastname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Lastname can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Email can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[Actual message is: Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = null]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Password can't be blank]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = 5]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = 5]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Remove search button confirmation]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = ]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = ]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = 5]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = 5]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = 5]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = 5]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = Funding Project 1]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = Funding Project 1]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Actual value = 5]]>
+    </line>
+    <line>
+      <![CDATA[|Expected value = 5]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+    <line>
+      <![CDATA[PASS]]>
+    </line>
+    <line>
+      <![CDATA[FAIL]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="443006" started-at="2017-03-03T19:16:25Z" finished-at="2017-03-03T19:23:48Z">
+    <groups>
+      <group name="Register Employee">
+        <method signature="Tests.blankFields()[pri:11, instance:com.regression.agileHats.Tests@204f30ec]" name="blankFields" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.invalidEmailFormat()[pri:14, instance:com.regression.agileHats.Tests@204f30ec]" name="invalidEmailFormat" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.invalidPasswordConfirmation()[pri:12, instance:com.regression.agileHats.Tests@204f30ec]" name="invalidPasswordConfirmation" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.passConfirmCaseSensitive()[pri:13, instance:com.regression.agileHats.Tests@204f30ec]" name="passConfirmCaseSensitive" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.takenEmail()[pri:15, instance:com.regression.agileHats.Tests@204f30ec]" name="takenEmail" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Register Employee -->
+      <group name="Create Funding Project">
+        <method signature="Tests.VideoUploadTEST()[pri:28, instance:com.regression.agileHats.Tests@204f30ec]" name="VideoUploadTEST" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.createFundingProjectValid()[pri:27, instance:com.regression.agileHats.Tests@204f30ec]" name="createFundingProjectValid" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Create Funding Project -->
+      <group name="Edit Profile">
+        <method signature="Tests.EditProfile()[pri:9, instance:com.regression.agileHats.Tests@204f30ec]" name="EditProfile" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Edit Profile -->
+      <group name="Failed Tests">
+        <method signature="Tests.LoginDependentMethod()[pri:34, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginDependentMethod" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.CheckLogout2()[pri:35, instance:com.regression.agileHats.Tests@204f30ec]" name="CheckLogout2" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.DateTest()[pri:37, instance:com.regression.agileHats.Tests@204f30ec]" name="DateTest" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Failed Tests -->
+      <group name="Logout">
+        <method signature="Tests.LogOut1()[pri:36, instance:com.regression.agileHats.Tests@204f30ec]" name="LogOut1" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Logout -->
+      <group name="Search">
+        <method signature="Tests.removeButtonTest()[pri:19, instance:com.regression.agileHats.Tests@204f30ec]" name="removeButtonTest" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.searchCaseSensitive()[pri:20, instance:com.regression.agileHats.Tests@204f30ec]" name="searchCaseSensitive" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.searchResultLinkTest()[pri:21, instance:com.regression.agileHats.Tests@204f30ec]" name="searchResultLinkTest" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.searchTrimTest()[pri:22, instance:com.regression.agileHats.Tests@204f30ec]" name="searchTrimTest" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.validSearchResultTest()[pri:18, instance:com.regression.agileHats.Tests@204f30ec]" name="validSearchResultTest" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Search -->
+      <group name="Create Existing Project">
+        <method signature="Tests.cancelCreateProjectWithNoInputs()[pri:25, instance:com.regression.agileHats.Tests@204f30ec]" name="cancelCreateProjectWithNoInputs" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.createProjectBlankFields()[pri:24, instance:com.regression.agileHats.Tests@204f30ec]" name="createProjectBlankFields" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.createProjectValid()[pri:23, instance:com.regression.agileHats.Tests@204f30ec]" name="createProjectValid" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Create Existing Project -->
+      <group name="Register Company">
+        <method signature="Tests.companyBlankFields()[pri:17, instance:com.regression.agileHats.Tests@204f30ec]" name="companyBlankFields" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.registerCompanyValid()[pri:16, instance:com.regression.agileHats.Tests@204f30ec]" name="registerCompanyValid" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Register Company -->
+      <group name="Login">
+        <method signature="Tests.LoginBlankPassword()[pri:2, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginBlankPassword" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginInvalidEmail()[pri:3, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidEmail" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginInvalidEmailAndBlankPassword()[pri:7, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidEmailAndBlankPassword" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginInvalidPassword()[pri:4, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPassword" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginInvalidPasswordAndBlankEmail()[pri:6, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPasswordAndBlankEmail" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginInvalidPasswordAndEmail()[pri:5, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPasswordAndEmail" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.LoginValidEmailAndPassword()[pri:8, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginValidEmailAndPassword" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.loginBlankEmail()[pri:1, instance:com.regression.agileHats.Tests@204f30ec]" name="loginBlankEmail" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.loginBlankEmailAndPassword()[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="loginBlankEmailAndPassword" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Login -->
+      <group name="Forgot Password Check">
+        <method signature="Tests.forgotPasswordNonExistingUser()[pri:32, instance:com.regression.agileHats.Tests@204f30ec]" name="forgotPasswordNonExistingUser" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.forgotPasswordTest()[pri:33, instance:com.regression.agileHats.Tests@204f30ec]" name="forgotPasswordTest" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Forgot Password Check -->
+      <group name="Create Responsibility">
+        <method signature="Tests.createResponsibilityLessThanMinCharacters()[pri:31, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityLessThanMinCharacters" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.createResponsibilityValid()[pri:29, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityValid" class="com.regression.agileHats.Tests"/>
+        <method signature="Tests.createResponsibilityBlankFields()[pri:30, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityBlankFields" class="com.regression.agileHats.Tests"/>
+      </group> <!-- Create Responsibility -->
+    </groups>
+    <test name="Default test" duration-ms="443006" started-at="2017-03-03T19:16:25Z" finished-at="2017-03-03T19:23:48Z">
+      <class name="com.regression.agileHats.Tests">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="beforeClass" is-config="true" duration-ms="46040" started-at="2017-03-03T20:16:25Z" finished-at="2017-03-03T20:17:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginBlankEmailAndPassword()[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="loginBlankEmailAndPassword" duration-ms="2307" started-at="2017-03-03T20:17:11Z" finished-at="2017-03-03T20:17:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying Email Warnning]]>
+            </line>
+            <line>
+              <![CDATA[|Actual value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Password Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginBlankEmailAndPassword -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:13Z" finished-at="2017-03-03T20:17:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginBlankEmailAndPassword status=SUCCESS method=Tests.loginBlankEmailAndPassword()[pri:0, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying Email Warnning]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="loginBlankEmail()[pri:1, instance:com.regression.agileHats.Tests@204f30ec]" name="loginBlankEmail" duration-ms="817" started-at="2017-03-03T20:17:13Z" finished-at="2017-03-03T20:17:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying Email Warnning]]>
+            </line>
+            <line>
+              <![CDATA[|Actual value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email can't be blank]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginBlankEmail -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:14Z" finished-at="2017-03-03T20:17:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginBlankEmail status=SUCCESS method=Tests.loginBlankEmail()[pri:1, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying Email Warnning]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginBlankPassword()[pri:2, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginBlankPassword" duration-ms="765" started-at="2017-03-03T20:17:14Z" finished-at="2017-03-03T20:17:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Password Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginBlankPassword -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:15Z" finished-at="2017-03-03T20:17:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginBlankPassword status=SUCCESS method=Tests.LoginBlankPassword()[pri:2, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = Password can't be blank]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginInvalidEmail()[pri:3, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidEmail" duration-ms="1056" started-at="2017-03-03T20:17:15Z" finished-at="2017-03-03T20:17:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidEmail -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:16Z" finished-at="2017-03-03T20:17:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginInvalidEmail status=SUCCESS method=Tests.LoginInvalidEmail()[pri:3, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = Wrong email or password. ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginInvalidPassword()[pri:4, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPassword" duration-ms="778" started-at="2017-03-03T20:17:16Z" finished-at="2017-03-03T20:17:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidPassword -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:16Z" finished-at="2017-03-03T20:17:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginInvalidPassword status=SUCCESS method=Tests.LoginInvalidPassword()[pri:4, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = Wrong email or password. ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginInvalidPasswordAndEmail()[pri:5, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPasswordAndEmail" duration-ms="749" started-at="2017-03-03T20:17:16Z" finished-at="2017-03-03T20:17:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Wrong email or password. ]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Invalid Email Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidPasswordAndEmail -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:17Z" finished-at="2017-03-03T20:17:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginInvalidPasswordAndEmail status=SUCCESS method=Tests.LoginInvalidPasswordAndEmail()[pri:5, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = Wrong email or password. ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginInvalidPasswordAndBlankEmail()[pri:6, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidPasswordAndBlankEmail" duration-ms="705" started-at="2017-03-03T20:17:17Z" finished-at="2017-03-03T20:17:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying Email Warnning]]>
+            </line>
+            <line>
+              <![CDATA[|Actual value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email can't be blank]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidPasswordAndBlankEmail -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:18Z" finished-at="2017-03-03T20:17:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginInvalidPasswordAndBlankEmail status=SUCCESS method=Tests.LoginInvalidPasswordAndBlankEmail()[pri:6, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying Email Warnning]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="LoginInvalidEmailAndBlankPassword()[pri:7, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginInvalidEmailAndBlankPassword" duration-ms="646" started-at="2017-03-03T20:17:18Z" finished-at="2017-03-03T20:17:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Password Warnning]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="LoginValidEmailAndPassword()[pri:8, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginValidEmailAndPassword" duration-ms="3886" started-at="2017-03-03T20:17:19Z" finished-at="2017-03-03T20:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidEmailAndPassword -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:19Z" finished-at="2017-03-03T20:17:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginInvalidEmailAndBlankPassword status=SUCCESS method=Tests.LoginInvalidEmailAndBlankPassword()[pri:7, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = Password can't be blank]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:22Z" finished-at="2017-03-03T20:17:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginValidEmailAndPassword status=SUCCESS method=Tests.LoginValidEmailAndPassword()[pri:8, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="EditProfile()[pri:9, instance:com.regression.agileHats.Tests@204f30ec]" name="EditProfile" duration-ms="20687" started-at="2017-03-03T20:17:22Z" finished-at="2017-03-03T20:17:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual value = 123456]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = 123456]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Phone Edit]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = skype accaunt]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = skype accaunt]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying Skype Edit]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:43Z" finished-at="2017-03-03T20:17:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EditProfile status=SUCCESS method=Tests.EditProfile()[pri:9, instance:com.regression.agileHats.Tests@204f30ec] output=Actual value = 123456]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="blankFields()[pri:11, instance:com.regression.agileHats.Tests@204f30ec]" name="blankFields" duration-ms="2131" started-at="2017-03-03T20:17:43Z" finished-at="2017-03-03T20:17:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Firstname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Firstname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Lastname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Lastname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password can't be blank]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- blankFields -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:45Z" finished-at="2017-03-03T20:17:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=blankFields status=SUCCESS method=Tests.blankFields()[pri:11, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Firstname can't be blank]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="invalidPasswordConfirmation()[pri:12, instance:com.regression.agileHats.Tests@204f30ec]" name="invalidPasswordConfirmation" duration-ms="2315" started-at="2017-03-03T20:17:45Z" finished-at="2017-03-03T20:17:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Password confirmation doesn't match password]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password confirmation doesn't match password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordConfirmation -->
+        <test-method status="PASS" signature="passConfirmCaseSensitive()[pri:13, instance:com.regression.agileHats.Tests@204f30ec]" name="passConfirmCaseSensitive" duration-ms="2001" started-at="2017-03-03T20:17:48Z" finished-at="2017-03-03T20:17:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Password confirmation doesn't match password]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password confirmation doesn't match password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- passConfirmCaseSensitive -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:48Z" finished-at="2017-03-03T20:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPasswordConfirmation status=SUCCESS method=Tests.invalidPasswordConfirmation()[pri:12, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Password confirmation doesn't match password]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:17:50Z" finished-at="2017-03-03T20:17:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passConfirmCaseSensitive status=SUCCESS method=Tests.passConfirmCaseSensitive()[pri:13, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Password confirmation doesn't match password]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="invalidEmailFormat()[pri:14, instance:com.regression.agileHats.Tests@204f30ec]" name="invalidEmailFormat" duration-ms="2787" started-at="2017-03-03T20:17:50Z" finished-at="2017-03-03T20:17:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Email is invalid]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidEmailFormat -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:52Z" finished-at="2017-03-03T20:17:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidEmailFormat status=SUCCESS method=Tests.invalidEmailFormat()[pri:14, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Email is invalid]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="takenEmail()[pri:15, instance:com.regression.agileHats.Tests@204f30ec]" name="takenEmail" duration-ms="2735" started-at="2017-03-03T20:17:52Z" finished-at="2017-03-03T20:17:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Email has already been taken]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email has already been taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- takenEmail -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:17:55Z" finished-at="2017-03-03T20:17:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=takenEmail status=SUCCESS method=Tests.takenEmail()[pri:15, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Email has already been taken]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="registerCompanyValid()[pri:16, instance:com.regression.agileHats.Tests@204f30ec]" name="registerCompanyValid" duration-ms="17219" started-at="2017-03-03T20:17:55Z" finished-at="2017-03-03T20:18:12Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: .//div[@class='btn btn-default select-file ember-view file-picker single']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//div[@class='btn btn-default select-file ember-view file-picker single']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: .//div[@class='btn btn-default select-file ember-view file-picker single']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//div[@class='btn btn-default select-file ember-view file-picker single']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at com.regression.agileHats.registerPage.clickSelectFileButton2(registerPage.java:550)
+	at com.regression.agileHats.Tests.registerCompanyValid(Tests.java:307)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerCompanyValid -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="229" started-at="2017-03-03T20:18:12Z" finished-at="2017-03-03T20:18:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerCompanyValid status=FAILURE method=Tests.registerCompanyValid()[pri:16, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="companyBlankFields()[pri:17, instance:com.regression.agileHats.Tests@204f30ec]" name="companyBlankFields" duration-ms="1418" started-at="2017-03-03T20:18:13Z" finished-at="2017-03-03T20:18:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual message is: Firstname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Firstname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Lastname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Lastname can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Email can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[Actual message is: Password can't be blank]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = null]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Password can't be blank]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- companyBlankFields -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:18:14Z" finished-at="2017-03-03T20:18:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=companyBlankFields status=SUCCESS method=Tests.companyBlankFields()[pri:17, instance:com.regression.agileHats.Tests@204f30ec] output=Actual message is: Firstname can't be blank]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="validSearchResultTest()[pri:18, instance:com.regression.agileHats.Tests@204f30ec]" name="validSearchResultTest" duration-ms="32087" started-at="2017-03-03T20:18:14Z" finished-at="2017-03-03T20:18:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = 5]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validSearchResultTest -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="2" started-at="2017-03-03T20:18:46Z" finished-at="2017-03-03T20:18:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validSearchResultTest status=SUCCESS method=Tests.validSearchResultTest()[pri:18, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying that the accurate result is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="removeButtonTest()[pri:19, instance:com.regression.agileHats.Tests@204f30ec]" name="removeButtonTest" duration-ms="5489" started-at="2017-03-03T20:18:46Z" finished-at="2017-03-03T20:18:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Remove search button confirmation]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = ]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- removeButtonTest -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="1" started-at="2017-03-03T20:18:52Z" finished-at="2017-03-03T20:18:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=removeButtonTest status=SUCCESS method=Tests.removeButtonTest()[pri:19, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Remove search button confirmation]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="searchCaseSensitive()[pri:20, instance:com.regression.agileHats.Tests@204f30ec]" name="searchCaseSensitive" duration-ms="30462" started-at="2017-03-03T20:18:52Z" finished-at="2017-03-03T20:19:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = 5]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchCaseSensitive -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:19:22Z" finished-at="2017-03-03T20:19:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchCaseSensitive status=SUCCESS method=Tests.searchCaseSensitive()[pri:20, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying that the accurate result is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="searchResultLinkTest()[pri:21, instance:com.regression.agileHats.Tests@204f30ec]" name="searchResultLinkTest" duration-ms="31769" started-at="2017-03-03T20:19:22Z" finished-at="2017-03-03T20:19:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = 5]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = 5]]>
+            </line>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate warrning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = Funding Project 1]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = Funding Project 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchResultLinkTest -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:19:54Z" finished-at="2017-03-03T20:19:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchResultLinkTest status=SUCCESS method=Tests.searchResultLinkTest()[pri:21, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying that the accurate result is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="searchTrimTest()[pri:22, instance:com.regression.agileHats.Tests@204f30ec]" name="searchTrimTest" duration-ms="31925" started-at="2017-03-03T20:19:54Z" finished-at="2017-03-03T20:20:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[|PASS  Verifying that the accurate result is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Actual value = 5]]>
+            </line>
+            <line>
+              <![CDATA[|Expected value = 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchTrimTest -->
+        <test-method status="FAIL" signature="createProjectValid()[pri:23, instance:com.regression.agileHats.Tests@204f30ec]" name="createProjectValid" duration-ms="19298" started-at="2017-03-03T20:20:26Z" finished-at="2017-03-03T20:20:45Z">
+          <exception class="org.sikuli.script.FindFailed">
+            <message>
+              <![CDATA[can not find src/resources/slika1.png in S(0)[0,0 1366x768]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[FindFailed: can not find src/resources/slika1.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+	at org.sikuli.script.Region.handleFindFailedShowDialog(Region.java:2189)
+	at org.sikuli.script.Region.handleFindFailed(Region.java:2134)
+	at org.sikuli.script.Region.wait(Region.java:2546)
+	at org.sikuli.script.Region.find(Region.java:2205)
+	at org.sikuli.script.Region.getLocationFromTarget(Region.java:3067)
+	at org.sikuli.script.Region.click(Region.java:3534)
+	at org.sikuli.script.Region.click(Region.java:3519)
+	at com.regression.agileHats.CreateProject.clickUploadButton(CreateProject.java:251)
+	at com.regression.agileHats.Tests.createProjectValid(Tests.java:437)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.sikuli.script.FindFailed -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectValid -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:20:26Z" finished-at="2017-03-03T20:20:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchTrimTest status=SUCCESS method=Tests.searchTrimTest()[pri:22, instance:com.regression.agileHats.Tests@204f30ec] output=|PASS  Verifying that the accurate result is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="82" started-at="2017-03-03T20:20:45Z" finished-at="2017-03-03T20:20:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createProjectValid status=FAILURE method=Tests.createProjectValid()[pri:23, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="createProjectBlankFields()[pri:24, instance:com.regression.agileHats.Tests@204f30ec]" name="createProjectBlankFields" duration-ms="16202" started-at="2017-03-03T20:20:45Z" finished-at="2017-03-03T20:21:01Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.createProjectBlankFields(Tests.java:470)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectBlankFields -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="112" started-at="2017-03-03T20:21:01Z" finished-at="2017-03-03T20:21:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createProjectBlankFields status=FAILURE method=Tests.createProjectBlankFields()[pri:24, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="cancelCreateProjectWithNoInputs()[pri:25, instance:com.regression.agileHats.Tests@204f30ec]" name="cancelCreateProjectWithNoInputs" duration-ms="16325" started-at="2017-03-03T20:21:01Z" finished-at="2017-03-03T20:21:18Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.cancelCreateProjectWithNoInputs(Tests.java:490)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelCreateProjectWithNoInputs -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="125" started-at="2017-03-03T20:21:18Z" finished-at="2017-03-03T20:21:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cancelCreateProjectWithNoInputs status=FAILURE method=Tests.cancelCreateProjectWithNoInputs()[pri:25, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="createFundingProjectValid()[pri:27, instance:com.regression.agileHats.Tests@204f30ec]" name="createFundingProjectValid" duration-ms="16309" started-at="2017-03-03T20:21:18Z" finished-at="2017-03-03T20:21:34Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.createFundingProjectValid(Tests.java:508)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFundingProjectValid -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="128" started-at="2017-03-03T20:21:34Z" finished-at="2017-03-03T20:21:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createFundingProjectValid status=FAILURE method=Tests.createFundingProjectValid()[pri:27, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="VideoUploadTEST()[pri:28, instance:com.regression.agileHats.Tests@204f30ec]" name="VideoUploadTEST" duration-ms="16510" started-at="2017-03-03T20:21:34Z" finished-at="2017-03-03T20:21:51Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.VideoUploadTEST(Tests.java:542)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VideoUploadTEST -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="126" started-at="2017-03-03T20:21:51Z" finished-at="2017-03-03T20:21:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VideoUploadTEST status=FAILURE method=Tests.VideoUploadTEST()[pri:28, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="createResponsibilityValid()[pri:29, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityValid" duration-ms="16419" started-at="2017-03-03T20:21:51Z" finished-at="2017-03-03T20:22:07Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.createResponsibilityValid(Tests.java:570)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResponsibilityValid -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="123" started-at="2017-03-03T20:22:07Z" finished-at="2017-03-03T20:22:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createResponsibilityValid status=FAILURE method=Tests.createResponsibilityValid()[pri:29, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="createResponsibilityBlankFields()[pri:30, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityBlankFields" duration-ms="16485" started-at="2017-03-03T20:22:08Z" finished-at="2017-03-03T20:22:24Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.createResponsibilityBlankFields(Tests.java:590)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResponsibilityBlankFields -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="135" started-at="2017-03-03T20:22:24Z" finished-at="2017-03-03T20:22:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createResponsibilityBlankFields status=FAILURE method=Tests.createResponsibilityBlankFields()[pri:30, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="createResponsibilityLessThanMinCharacters()[pri:31, instance:com.regression.agileHats.Tests@204f30ec]" name="createResponsibilityLessThanMinCharacters" duration-ms="17447" started-at="2017-03-03T20:22:24Z" finished-at="2017-03-03T20:22:42Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.createResponsibilityLessThanMinCharacters(Tests.java:609)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResponsibilityLessThanMinCharacters -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="122" started-at="2017-03-03T20:22:42Z" finished-at="2017-03-03T20:22:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createResponsibilityLessThanMinCharacters status=FAILURE method=Tests.createResponsibilityLessThanMinCharacters()[pri:31, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="forgotPasswordNonExistingUser()[pri:32, instance:com.regression.agileHats.Tests@204f30ec]" name="forgotPasswordNonExistingUser" duration-ms="16693" started-at="2017-03-03T20:22:42Z" finished-at="2017-03-03T20:22:58Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: .//*[@class='pull-left forgot-link ember-view']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//*[@class='pull-left forgot-link ember-view']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@class='pull-left forgot-link ember-view']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//*[@class='pull-left forgot-link ember-view']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at com.regression.agileHats.ForgotPassword.clickForgotPasswordLink(ForgotPassword.java:63)
+	at com.regression.agileHats.Tests.forgotPasswordNonExistingUser(Tests.java:628)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordNonExistingUser -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="110" started-at="2017-03-03T20:22:58Z" finished-at="2017-03-03T20:22:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPasswordNonExistingUser status=FAILURE method=Tests.forgotPasswordNonExistingUser()[pri:32, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="forgotPasswordTest()[pri:33, instance:com.regression.agileHats.Tests@204f30ec]" name="forgotPasswordTest" duration-ms="16440" started-at="2017-03-03T20:22:59Z" finished-at="2017-03-03T20:23:15Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: .//*[@class='pull-left forgot-link ember-view']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//*[@class='pull-left forgot-link ember-view']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@class='pull-left forgot-link ember-view']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=.//*[@class='pull-left forgot-link ember-view']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at com.regression.agileHats.ForgotPassword.clickForgotPasswordLink(ForgotPassword.java:63)
+	at com.regression.agileHats.Tests.forgotPasswordTest(Tests.java:639)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="101" started-at="2017-03-03T20:23:15Z" finished-at="2017-03-03T20:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPasswordTest status=FAILURE method=Tests.forgotPasswordTest()[pri:33, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="LoginDependentMethod()[pri:34, instance:com.regression.agileHats.Tests@204f30ec]" name="LoginDependentMethod" duration-ms="15101" started-at="2017-03-03T20:23:15Z" finished-at="2017-03-03T20:23:30Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@placeholder='Email']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'anita-X550LD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-65-generic', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170201180315, version=, platform=LINUX, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=2880, browserVersion=51.0.1, platformVersion=4.4.0-65-generic, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=linux}]
+Session ID: a39b3af6-52bb-4e35-981d-6e946eafa230
+*** Element info: {Using=xpath, value=//input[@placeholder='Email']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.regression.agileHats.Login.clearLoginFields(Login.java:208)
+	at com.regression.agileHats.Tests.LoginDependentMethod(Tests.java:649)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDependentMethod -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="113" started-at="2017-03-03T20:23:30Z" finished-at="2017-03-03T20:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginDependentMethod status=FAILURE method=Tests.LoginDependentMethod()[pri:34, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="SKIP" signature="CheckLogout2()[pri:35, instance:com.regression.agileHats.Tests@204f30ec]" name="CheckLogout2" duration-ms="0" started-at="2017-03-03T20:23:30Z" depends-on-methods="com.regression.agileHats.Tests.LoginDependentMethod" finished-at="2017-03-03T20:23:30Z">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method Tests.CheckLogout2()[pri:35, instance:com.regression.agileHats.Tests@204f30ec] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method Tests.CheckLogout2()[pri:35, instance:com.regression.agileHats.Tests@204f30ec] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLogout2 -->
+        <test-method status="PASS" signature="LogOut1()[pri:36, instance:com.regression.agileHats.Tests@204f30ec]" name="LogOut1" duration-ms="2510" started-at="2017-03-03T20:23:30Z" finished-at="2017-03-03T20:23:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut1 -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="0" started-at="2017-03-03T20:23:33Z" finished-at="2017-03-03T20:23:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogOut1 status=SUCCESS method=Tests.LogOut1()[pri:36, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="FAIL" signature="DateTest()[pri:37, instance:com.regression.agileHats.Tests@204f30ec]" name="DateTest" duration-ms="13989" started-at="2017-03-03T20:23:33Z" finished-at="2017-03-03T20:23:47Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at com.regression.agileHats.CreateProject.getDateVerification(CreateProject.java:304)
+	at com.regression.agileHats.Tests.DateTest(Tests.java:692)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateTest -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="writeResult" is-config="true" duration-ms="114" started-at="2017-03-03T20:23:47Z" finished-at="2017-03-03T20:23:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DateTest status=FAILURE method=Tests.DateTest()[pri:37, instance:com.regression.agileHats.Tests@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.regression.agileHats.Tests@204f30ec]" name="close" is-config="true" duration-ms="747" started-at="2017-03-03T20:23:47Z" finished-at="2017-03-03T20:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.regression.agileHats.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
